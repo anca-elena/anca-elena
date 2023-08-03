@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Anca, I'm a third year BSc CS student at Vrije Universiteit Amsterdam. 
-I have experience working as a TA and am passionate about teaching, so reach out to me about projects related to education! 
+I'm Anca, I'm a third year BSc CS student at Vrije Universiteit Amsterdam. \
+I have experience working as a TA and am passionate about teaching, so reach out to me about projects related to education! \
 You can find me on discord @ alrightcarrots.
 
 <!--
