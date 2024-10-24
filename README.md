@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anca, I'm a third year BSc CS student at Vrije Universiteit Amsterdam. \
+I'm Anca, I'm a first year MSc CompSec student at Vrije Universiteit Amsterdam. \
 You can find me on discord @ alrightcarrots 🥕
 
 <!--
